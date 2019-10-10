@@ -85,7 +85,7 @@ have learnt that resilience is the key to success.
 - Anime/Manga
   - I enjoy the different stories that a manga can tell as well as their way to draw and their cultural references to the rest of the world
 - Games
-  - For the same reason I like mangas, many games try to tell a story. Also my favourite games are the Zelda type when you need to think to solve a puzzle
+  - For the same reason I like mangas, many games try to tell a story. Also my favourite games are Half Life or Zelda type where you need to think to solve a puzzle
 - Classic guitar
   - I tought myself how to play guitar by using youtube videos
 - Cooking
