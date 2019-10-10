@@ -8,8 +8,6 @@
 
 # <h1 align="center"> Who I am </h1>
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
-
 In 2019 I have made the decision to hang my apron and change my life by looking into learning how to
 code. At the time, I did not even know about the existence of ‘GitHub’ and five months later, here I am, a
 full stack junior developer (in the making). For years I have had a strong interest in technology, its
@@ -22,18 +20,19 @@ furthering my knowledge of coding.
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-<!-- While working as a chef, transferable skills such as working under pressure and meeting tight deadlines have been developed. In addition, has learned how to be a valuable team player, able to communicate effectively with people from all social and professional backgrounds.  -->
+While working as a chef, transferable skills such as working under pressure and meeting tight deadlines have been developed. In addition, has learned how to be a valuable team player, able to communicate effectively with people from all social and professional backgrounds.
 
 
 #### Resilient with a Can-do attitude
 
 - I am driven person with a can-do attitude which allows me to perform tasks over several hours, while remainin my focused.
-- Long shifts in a kitchen helped me to remain focus of what I do
+- I consider myself as a positive person that always try to look at the bright side even in I am in the middle of a "storm"
 
 #### Managing and Work under pressure
 
-- During my work as a chef, hundreds of people were serve in 3 hours and I was able to manage a small team so the food come out quick but with top quality
-- Meeting tight deadlines have been developed, we used to received big takeaway orders during lunch time
+- During my work as a chef, large groups of people were serve in 3 hours and was able to manage a small team so the food would come out quick and with high quality
+- Meeting tight deadlines have been developed. During lunch time, apart from hundreds of people, takeaway orders were taken
+
 #### Team work and Adaptability.
 
 - In makers we were put with different pairs every week as well as in the group projects
@@ -53,12 +52,13 @@ Consider skills relevent to software development. Then consider your best skills
 
 ### Makers Academy (June 2019 - October 2019)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, Jest
 
 ### VET in Electronics (September 2007- June 2010)
+
 Electronics, Microelectronics, Logic, Electricity.
 - As part of the course, I have built a radio in a team environment. In addition, I have installed an antenna
 TV system in a building.
@@ -82,7 +82,6 @@ have learnt that resilience is the key to success.
 
 ## <h2 align="center"><a name="hobbies">Hobbies</a></h2>
 
-Any cool stuff that makes you a super part of a software development team
 - Anime/Manga
   - I enjoy the different stories that a manga can tell as well as their way to draw and their cultural references to the rest of the world
 - Games
