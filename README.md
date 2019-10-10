@@ -69,7 +69,7 @@ assembling them.
 ## <h2 align="center"><a name="experience">Experience</a></h2>
 
 
-### Tempio Wine Restaurant(2014 - 2018)
+### Tempio Wine Restaurant (2014 - 2018)
 
 - Working as I chef, I have learnt the importance of each individual when working in a team. In addition, I
 have learnt that resilience is the key to success.
