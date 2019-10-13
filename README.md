@@ -18,7 +18,6 @@ furthering my knowledge of coding.
 
 ## <h2 align="center"><a name="skills">Skills</a></h2>
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 While working as a chef, transferable skills such as working under pressure and meeting tight deadlines have been developed. In addition, has learned how to be a valuable team player, able to communicate effectively with people from all social and professional backgrounds.
 
