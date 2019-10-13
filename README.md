@@ -24,18 +24,18 @@ While working as a chef, transferable skills such as working under pressure and 
 
 #### Resilient with a Can-do attitude
 
-- I am driven person with a can-do attitude which allows me to perform tasks over several hours, while remainin my focused.
+- I am driven person with a can-do attitude which allows me to perform tasks over several hours while remaining my focused.
 - I consider myself as a positive person that always try to look at the bright side even in I am in the middle of a "storm"
 
 #### Managing and Work under pressure
 
-- During my work as a chef, large groups of people were serve in 3 hours and was able to manage a small team so the food would come out quick and with high quality
-- Meeting tight deadlines have been developed. During lunch time, apart from hundreds of people, takeaway orders were taken
+- During my work as a chef, large groups of people were served in 3 hours and I was able to manage a small team so the food would come out quickly and with high quality
+- Meeting tight deadlines have been developed. During lunchtime, apart from hundreds of people, takeaway orders were taken
 
 #### Team work and Adaptability.
 
-- In makers we were put with different pairs every week as well as in the group projects
-- I believe that the team work is the most valuable as one can get more ideas from it and hear different opinions as well as getting good feedback. I am also able to adapt to every person and its needs.
+- In Makers, we were put with different pairs every week as well as in the group projects
+- I believe that teamwork is the most valuable as one can get more ideas from it and hear different opinions as well as getting good feedback. I am also able to adapt to every person and its needs.
 
 ## <h2 align="center"><a name="projects">Projects</a></h2>
 
