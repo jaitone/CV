@@ -13,7 +13,7 @@ code. At the time, I did not even know about the existence of ‘GitHub’ and f
 full stack junior developer (in the making). For years I have had a strong interest in technology, its
 components and the way in which different parts work together. This has spurred an interest in coding,
 as I sought to understand the work behind the scenes, how to find the source of a problem and fix it in a
-methdological way. As a Makers graduate I am seeking an opportunity to begin an exciting career while
+methodological way. As a Makers graduate, I am seeking an opportunity to begin an exciting career while
 furthering my knowledge of coding.
 
 ## <h2 align="center"><a name="skills">Skills</a></h2>
