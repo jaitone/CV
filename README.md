@@ -10,13 +10,7 @@
 
 # <h1 align="center"> Who I am </h1>
 
-In 2019 I have made the decision to hang my apron and change my life by looking into learning how to
-code. At the time, I did not even know about the existence of ‘GitHub’ and five months later, here I am, a
-full stack junior developer (in the making). For years I have had a strong interest in technology, its
-components and the way in which different parts work together. This has spurred an interest in coding,
-as I sought to understand the work behind the scenes, how to find the source of a problem and fix it in a
-methodological way. As a Makers graduate, I am seeking an opportunity to begin an exciting career while
-furthering my knowledge of coding.
+In early 2019 I have made the decision to hang my apron and change my life by looking into learning how to code. At the time, I did not even know about the existence of ‘GitHub’ and five months later, here I am, a full stack junior developer (in the making). For years I have had a strong interest in technology, its components and the way in which different parts work together. This has spurred an interest in coding, as I sought to understand the work behind the scenes, how to find the source of a problem and fix it in a methodological way. As a Makers graduate, I am seeking an opportunity to begin an exciting career while furthering my knowledge of coding.
 
 ## <h2 align="center"><a name="skills">Skills</a></h2>
 
@@ -27,7 +21,7 @@ While working as a chef, transferable skills such as working under pressure and 
 #### Resilient with a Can-do attitude
 
 - I am driven person with a can-do attitude which allows me to perform tasks over several hours while remaining my focused.
-- I consider myself as a positive person that always try to look at the bright side even in I am in the middle of a "storm"
+- I consider myself as a positive person that always try to look at the bright side even in I am in the middle of a "storm".
 
 #### Managing and Work under pressure
 
