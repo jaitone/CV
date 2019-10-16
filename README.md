@@ -1,8 +1,8 @@
 <h1 align="center">Mario Garcia Piñan</h1>
 <p align="center"><a href='https://github.com/jaitone'><img src='https://avatars0.githubusercontent.com/u/51136692?s=460&v=4' hspace="50" height="42" width="42"></a>
 <a href="https://www.instagram.com/mgpinan1990/"><img src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fjoresablount%2Ffiles%2F2019%2F08%2Funnamed-1200x1191.jpg" alt="instagram" hspace="50" height="42" width="42" ></a>
- <a href="https://www.linkedin.com/in/mario-garcia-4491b316b/"><img src="http://cdn.northernlightspr.com/wp-content/uploads/2015/08/LinkedIn.png" alt="instagram" hspace="50" height="42" width="42" ></a>
-<p align="center"><a href='https://www.linkedin.com/in/mario-garcia-4491b316b/'><img src='http://cdn.northernlightspr.com/wp-content/uploads/2015/08/LinkedIn.png' hspace="50" height="42" width="42"></a>
+<a href="https://www.linkedin.com/in/mario-garcia-4491b316b/"><img src="http://cdn.northernlightspr.com/wp-content/uploads/2015/08/LinkedIn.png" alt="instagram" hspace="50" height="42" width="42" ></a>
+
 
 
 ### <p align="center"> [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)</p>
