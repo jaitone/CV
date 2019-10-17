@@ -78,11 +78,11 @@ have learnt that resilience is the key to success
 
 ## <h2 align="center"><a name="hobbies">Hobbies</a></h2>
 
-- Anime/Manga
-  - I enjoy the different stories that a manga can tell as well as their way to draw and their cultural references to the rest of the world
-- Games
-  - For the same reason I like mangas, many games try to tell a story. Also my favourite games are Half Life or Zelda type where you need to think to solve a puzzle
-- Classic guitar
-  - I tought myself how to play guitar by using YouTube videos
-- Cooking
-  - Before working in a kitchen, I always enjoyed experimenting with food and the mix of different flavours
+#### Anime/Manga
+- I enjoy the different stories that a manga can tell as well as their way to draw and their cultural references to the rest of the world
+#### Games
+- For the same reason I like mangas, many games try to tell a story. Also my favourite games are Half Life or Zelda type where you need to think to solve a puzzle
+#### Classic guitar
+- I tought myself how to play guitar by using YouTube videos
+#### Cooking
+- Before working in a kitchen, I always enjoyed experimenting with food and the mix of different flavours. I make the best paella in London
