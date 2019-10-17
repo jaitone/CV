@@ -22,18 +22,18 @@ While working as a chef, I developed transferable skills such as working under p
 
 #### Resilient with a Can-do Attitude
 
-- I am a driven person with a can-do attitude which allows me to perform tasks over several hours while remaining focused
-- I consider myself to be a positive person who always tries to look at the bright side even in I am in the middle of a "storm"
+- I am a driven person with a can-do attitude which allows me to perform tasks over several hours while remaining focused.
+- I consider myself to be a positive person who always tries to look at the bright side even in I am in the middle of a "storm".
 
 #### Managing and Work under Pressure
 
-- During my work as a chef, large groups of people were served in 3 hours and I was able to manage a small team so the food would come out quickly and with high quality
-- I developed te ability to meet tight deadlines. During lunchtime, apart from serving hundreds of people,we also took takeaway orders
+- During my work as a chef, large groups of people were served in 3 hours and I was able to manage a small team so the food would come out quickly and with high quality.
+- I developed te ability to meet tight deadlines. During lunchtime, apart from serving hundreds of people,we also took takeaway orders.
 
 #### Team work and Adaptability.
 
-- In Makers, we worked with different pairs every week as well as in the group projects
-- I believe that teamwork is valuable as one can get more ideas from it and hear different opinions as well as getting good feedback. I am also able to adapt to every person and their needs
+- In Makers, we worked with different pairs every week as well as in the group projects.
+- I believe that teamwork is valuable as one can get more ideas from it and hear different opinions as well as getting good feedback. I am also able to adapt to every person and their needs.
 
 ## <h2 align="center"><a name="projects">Projects</a></h2>
 
@@ -57,9 +57,9 @@ While working as a chef, I developed transferable skills such as working under p
 #### VET in Electronics (September 2007- June 2010)
 
 Electronics, Microelectronics, Logic, Electricity.
-- As part of the course, I built a radio in a team environment. In addition, I installed a TV system in a building
+- As part of the course, I built a radio in a team environment. In addition, I installed a TV system in a building.
 - As part of the course I fixed and also built various computers, through purchasing individual components and
-assembling them
+assembling them.
 
 
 ## <h2 align="center"><a name="experience">Experience</a></h2>
@@ -68,21 +68,21 @@ assembling them
 #### Tempio Wine Restaurant (2014 - 2018)
 
 - Working as I chef, I learnt the importance of each individual when working in a team. In addition, I
-have learnt that resilience is the key to success
-- Due to hard work and determination I was promoted from kitchen porter to chef within 6 months
+have learnt that resilience is the key to success.
+- Due to hard work and determination I was promoted from kitchen porter to chef within 6 months.
 
 #### IZA-Ascensores(Lift company) (2010-2011)
 
-- My role as a technician was of the maintenance of lifts as well as finding problems and fixing them
-- In this time I learned the meaning of hard work no matter the weather or any other cincurtances and to work thorougly to perfection
+- My role as a technician was of the maintenance of lifts as well as finding problems and fixing them.
+- In this time I learned the meaning of hard work no matter the weather or any other cincurtances and to work thorougly to perfection.
 
 ## <h2 align="center"><a name="hobbies">Hobbies</a></h2>
 
 #### Anime/Manga
-- I enjoy the different stories that a manga can tell as well as their way to draw and their cultural references to the rest of the world
+- I enjoy the different stories that a manga can tell as well as their way to draw and their cultural references to the rest of the world.
 #### Games
-- For the same reason I like mangas, many games try to tell a story. Also my favourite games are Half Life or Zelda type where you need to think to solve a puzzle
+- For the same reason I like mangas, many games try to tell a story. Also my favourite games are Half Life or Zelda type where you need to think to solve a puzzle.
 #### Classic guitar
-- I tought myself how to play guitar by using YouTube videos
+- I tought myself how to play guitar by using YouTube videos.
 #### Cooking
-- Before working in a kitchen, I always enjoyed experimenting with food and the mix of different flavours. I make the best paella in London
+- Before working in a kitchen, I always enjoyed experimenting with food and the mix of different flavours. I make the best paella in London.
