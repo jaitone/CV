@@ -43,6 +43,7 @@ While working as a chef, I developed transferable skills such as working under p
 | <a href='https://github.com/jaitone/acebook-good-guys'>Acebook  </a> | Ruby on rails, RSpec, Capybara, PostgreSQL, Active Record, Bootstrap, RuboCop, Simplecov  | A humble copy of facebook with posts, albums...  |
 | <a href='https://github.com/jaitone/Thermostat'>Thermostat </a> |Javascript, Jasmine, jQuery | An app where you can increase or lower the temperature and check the weather in different cities  |
 | <a href='https://github.com/jaitone/rps-challenge'>Rock, Paper, Scissors </a> | Sinatra, Capybara, RSpec, Simplecov  | A Rock, Paper, Scissors game |
+| <a href='https://jaitone.github.io/'>My website </a> | Html, CSS, Javascript  | Something I always wanted to do, my own website. |
 
 
 
