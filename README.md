@@ -76,7 +76,7 @@ have learnt that resilience is the key to success.
 #### IZA-Ascensores(Lift company) (2010-2011)
 
 - My role as a technician was of the maintenance of lifts as well as finding problems and fixing them.
-- In this time I learned the meaning of hard work no matter the weather or any other cincurtances and to work thorougly to perfection.
+- In this time I learned the meaning of hard work no matter the weather or any other circumstances and to work thoroughly to perfection.
 
 ## <h2 align="center"><a name="hobbies">Hobbies</a></h2>
 
