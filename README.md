@@ -44,7 +44,7 @@ While working as a chef, I developed transferable skills such as working under p
 | <a href='https://github.com/jaitone/Thermostat'>Thermostat </a> |Javascript, Jasmine, jQuery | An app where you can increase or lower the temperature and check the weather in different cities  |
 | <a href='https://github.com/jaitone/rps-challenge'>Rock, Paper, Scissors </a> | Sinatra, Capybara, RSpec, Simplecov  | A Rock, Paper, Scissors game |
 | <a href='https://github.com/jaitone/RouteApp'>RoutApp </a> | React, Bootstrap, Express, PostgreSQL | A route app that draws a route from point A to B, given an origin and a destination postcodes, using google maps API. Also able to store and use the routes in the future. |
-| <a href='https://github.com/jaitone/Chwetter'>RoutApp </a> | React, Bootstrap | A Front-End app, using a given Back-end in RoR, where you can CRUD peeps and create an account. |
+| <a href='https://github.com/jaitone/Chwetter'>Chwetter </a> | React, Bootstrap | A Front-End app, using a given Back-end in RoR, where you can CRUD peeps and create an account. |
 
 
 
