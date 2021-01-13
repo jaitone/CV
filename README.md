@@ -81,6 +81,10 @@ have learnt that resilience is the key to success.
 
 #### IT support technician, A&M INFORMATICA (August 2013 - January 2014)
 
+- Assemble, maintain, and repair computers.
+- Advice customers, given their needs, which hardware will suit them best.
+- Thorough and pay attention to detail.
+
 ## <h2 align="center"><a name="hobbies">Hobbies</a></h2>
 
 #### Anime/Manga
