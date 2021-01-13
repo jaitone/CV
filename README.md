@@ -57,27 +57,29 @@ While working as a chef, I developed transferable skills such as working under p
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine, Jest
 
-#### VET in Electronics (September 2007- June 2010)
+#### Certificate of Higher Education (HNC) (September 2009 - June 2012)
 
 Electronics, Microelectronics, Logic, Electricity.
-- As part of the course, I built a radio in a team environment. In addition, I installed a TV system in a building.
-- As part of the course I fixed and also built various computers, through purchasing individual components and
-assembling them.
-
+- Build and learn about electronic components in general hardware such as radios, and TVs.
+- Designing multi-wire schemes for houses and building them.
+- Install and learn about TV systems in a building.
+- As part of the course I fixed and also built various computers, through purchasing individual components and assembling them.
 
 ## <h2 align="center"><a name="experience">Experience</a></h2>
 
 
-#### Tempio Wine Restaurant (2014 - 2018)
+#### Tempio Wine Restaurant (May 2014 - December 2020)
 
 - Working as I chef, I learnt the importance of each individual when working in a team. In addition, I
 have learnt that resilience is the key to success.
 - Due to hard work and determination I was promoted from kitchen porter to chef within 6 months.
 
-#### IZA-Ascensores(Lift company) (2010-2011)
+#### IZA-Ascensores(Lift company) (June 2012 - January 2013)
 
 - My role as a technician was of the maintenance of lifts as well as finding problems and fixing them.
 - In this time I learned the meaning of hard work no matter the weather or any other circumstances and to work thoroughly to perfection.
+
+#### IT support technician, A&M INFORMATICA (August 2013 - January 2014)
 
 ## <h2 align="center"><a name="hobbies">Hobbies</a></h2>
 
